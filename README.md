@@ -11,6 +11,8 @@ Code Repositoy: [gcivil-nyu-org/INET-Monday-Spring2023-Team-5](https://github.co
 
 Live demo: [bamnyc.pythonanywhere.com](https://bamnyc.pythonanywhere.com/)
 
+[Screenshots](./screenshots.md)
+
 ## Personal Assignments
 
 ### Django Hello World Developed and Deployed
